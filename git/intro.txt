@@ -1,0 +1,9 @@
+git status
+
+git init
+
+git add file name 
+git add .                   // add all files into repository
+
+git commit -m "message"
+

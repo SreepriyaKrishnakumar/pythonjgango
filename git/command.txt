@@ -1,0 +1,4 @@
+my first commands
+
+git clone <repository url>               // for merge the repository to github
+
